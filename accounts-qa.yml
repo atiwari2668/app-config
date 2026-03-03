@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 account:
-  message: "Welcome to EazyBank Account related qa APIs"
+  message: "Welcome to EazyBank Account related qa from GTI APIs"
   contactDetails:
     name: "QA- Tester"
     email: "dragos_account@eazybank.com"
