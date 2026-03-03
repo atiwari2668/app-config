@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+account:
+  message: "Welcome to EazyBank Account related prod APIs"
+  contactDetails:
+    name: "Prod Developer"
+    email: "dragos_account@eazybank.com"
+  onCallSupport:
+    - (999) 419-3491
+    - (222) 382-1932

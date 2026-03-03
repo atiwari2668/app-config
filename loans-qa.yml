@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loan:
+  message: "Welcome to EazyBank Account related qa APIs"
+  contactDetails:
+    name: "Leath: qa"
+    email: "dragos_account_qa@eazybank.com"
+  onCallSupport:
+    - (999) 419-3491
+    - (999) 382-1932

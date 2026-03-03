@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loan:
+  message: "Welcome to EazyBank Account related prod APIs"
+  contactDetails:
+    name: "Leath: prod"
+    email: "dragos_account@eazybank.com"
+  onCallSupport:
+    - (555) 419-3491
+    - (555) 382-1932

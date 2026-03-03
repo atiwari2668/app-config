@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+account:
+  message: "Welcome to EazyBank Account related qa APIs"
+  contactDetails:
+    name: "QA- Tester"
+    email: "dragos_account@eazybank.com"
+  onCallSupport:
+    - (222) 419-3491
+    - (222) 382-1932
