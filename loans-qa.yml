@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank Account related qa APIs"
+  message: "Welcome to EazyBank Account related qa testing webhook APIs"
   contactDetails:
     name: "Leath: qa"
     email: "dragos_account_qa@eazybank.com"
