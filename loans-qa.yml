@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-loan:
+loans:
   message: "Welcome to EazyBank Account related qa APIs"
   contactDetails:
     name: "Leath: qa"
