@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank Account related prod APIs"
+  message: "Welcome to EazyBank Account related prod bus demo APIs"
   contactDetails:
     name: "Leath: prod"
     email: "dragos_account@eazybank.com"
