@@ -1,11 +1,12 @@
-build:
-  version: "2.0"
 
-account:
-  message: "Welcome to EazyBank Account related qa from GTI APIs"
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "QA- Tester"
-    email: "dragos_account@eazybank.com"
+    name: "Nishma - Developer"
+    email: "nishma@eazybank.com"
   onCallSupport:
-    - (222) 419-3491
-    - (222) 382-1932
+    - (555) 232-123
+    - (555) 323-234
